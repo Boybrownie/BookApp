@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_signout.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_signout.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bookapp-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/drawable_bookapp.jpeg.flat",
+        "source": "com.example.bookapp-main-34:/drawable/bookapp.jpeg"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_addeditbook.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_addeditbook.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.bookapp-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.bookapp-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bookapp-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_forgotpassword.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_forgotpassword.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/color_primary.xml.flat",
+        "source": "com.example.bookapp-main-34:/color/primary.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_viewbook.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_viewbook.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_login.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/drawable_ic_person_gray.xml.flat",
+        "source": "com.example.bookapp-main-34:/drawable/ic_person_gray.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bookapp-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.bookapp-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/menu_admin_menu.xml.flat",
+        "source": "com.example.bookapp-main-34:/menu/admin_menu.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_admin_borrow_user_item.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/admin_borrow_user_item.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_admindashboard.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_admindashboard.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/drawable_ic_edit_white.xml.flat",
+        "source": "com.example.bookapp-main-34:/drawable/ic_edit_white.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_adminviewborrowbook.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_adminviewborrowbook.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bookapp-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_editprofile.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_editprofile.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/menu_menu.xml.flat",
+        "source": "com.example.bookapp-main-34:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_viewborrowbook.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_viewborrowbook.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.bookapp-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/drawable_ic_back_white.xml.flat",
+        "source": "com.example.bookapp-main-34:/drawable/ic_back_white.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_profile.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.bookapp-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_user_borrow_book_item.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/user_borrow_book_item.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.bookapp-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_borrowbook.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_borrowbook.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bookapp-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/drawable_shape_button_transparent.xml.flat",
+        "source": "com.example.bookapp-main-34:/drawable/shape_button_transparent.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_admin_book_item.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/admin_book_item.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_adminborrow.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_adminborrow.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bookapp-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bookapp-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_splashscreen.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_splashscreen.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/drawable_libra.jpeg.flat",
+        "source": "com.example.bookapp-main-34:/drawable/libra.jpeg"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.bookapp-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_signup.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.bookapp-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_user_book_item.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/user_book_item.xml"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bookapp-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bookapp-debug-32:/layout_activity_deletebook.xml.flat",
+        "source": "com.example.bookapp-main-34:/layout/activity_deletebook.xml"
+    }
+]
