@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.bookapp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.bookapp"
@@ -40,4 +40,12 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+
+        implementation("com.github.bumptech.glide:glide:4.16.0")
+
+
+        
+
+
+
 }
